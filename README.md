@@ -2,15 +2,14 @@
 
 <p align="center">
 <h2 align="center">Hi, I'm Muhammad Fadly Ardhian S, a.k.a fadlyas</h2>
-<h3 align="center">A rookie who is very passionate about Android and Outer Space</h3>
+<h3 align="center">A rookie who is very passionate about Android and Linux</h3>
 </p>
 
 ## Some minor info about myself
-I am from a lovey country Indonesia. I started my journey with Linux in 2019. Since then, I've been very interested in Linux Kernel. I've been developing linux kernels for my Android device since then. It's been a fun journey. Hope it continues.
+I am from Indonesia. I started my journey with Linux in 2019. Since then, I've been very interested in Linux Kernel. I've been developing linux kernels for my Android device since then. It's been a fun journey. Hope it continues.
 
 ## What are you upto now?
 - Recognize this world.
-- Learning English, C, C++, and more.
 - Contributing to opensource projects sometimes.
 - Wandering around GitHub mindlessly.
 
