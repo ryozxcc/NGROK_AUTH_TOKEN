@@ -8,8 +8,8 @@
 ## Beberapa info kecil tentang saya
 Saya berasal dari Indonesia. Saya memulai perjalanan menyenangkan dengan Linux pada tahun 2019. Sejak itu, saya sangat tertarik dengan proyek kelas bawah seperti Kernel Linux. Saya telah mengembangkan kernel linux untuk beberapa perangkat Android sejak saat itu. Ini merupakan perjalanan yang menyenangkan. Semoga terus berlanjut.
 
-## Apa rencanamu sekarang?
-- Menyelesaikan pendidikan dan lulus sebagai sarjana.
+## Apa yang kamu lakukan sekarang?
+- Mengetahui bagaimana cara dunia ini bekerja.
 - Berkontribusi pada proyek opensource (kadang-kadang).
 - Berkeliaran di sekitar GitHub tanpa tujuan yang jelas.
 
