@@ -1,21 +1,23 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <p align="center">
-<h2 align="center">Hi, I'm Muhammad Fadly Ardhian S, a.k.a fadlyas</h2>
-<h3 align="center">A rookie who is very passionate about Android and Linux</h3>
+<h2 align="center">Halo, Saya Muhammad Fadly Ardhian S, alias fadlyas</h2>
+<h3 align="center">Seorang pemula yang sangat antusias dengan Android dan Linux</h3>
 </p>
 
-## Some minor info about myself
-I am from Indonesia. I started my journey with Linux in 2019. Since then, I've been very interested in Linux Kernel. I've been developing linux kernels for my Android device since then. It's been a fun journey. Hope it continues.
+## Beberapa info kecil tentang saya
+Saya berasal dari Indonesia. Saya memulai perjalanan menyenangkan dengan Linux pada tahun 2019. Sejak itu, saya sangat tertarik dengan proyek kelas bawah seperti Kernel Linux. Saya telah mengembangkan kernel linux untuk beberapa perangkat Android sejak saat itu. Ini merupakan perjalanan yang menyenangkan. Semoga terus berlanjut.
 
-## What are you upto now?
-- Recognize this world.
-- Contributing to opensource projects sometimes.
-- Wandering around GitHub mindlessly.
+## Apa rencanamu sekarang?
+- Menyelesaikan pendidikan dan lulus sebagai sarjana.
+- Berkontribusi pada proyek opensource (kadang-kadang).
+- Berkeliaran di sekitar GitHub tanpa tujuan yang jelas.
 
 <p>
   <em>
-    It's been 20 years since I came to this beautiful world.<br>
+    Sudah 20 tahun sejak saya datang ke dunia yang indah ini.<br>
     “My life is better with every year of living it.” — Rachel Maddow.
   </em>
 </p>
+
+I'm currently publicly reachable only on [Telegram](https://t.me/yeetnosense), preferably with Bahasa but it's okay with English too.
